@@ -1,4 +1,4 @@
-### Hi there 👋
+### hey there🌸 i'm currently working on a personal portfolio, a typescript game, an iOS app, and a python tracker thing! it's all good, i got it under control😔
 
 <!--
 **laila-chammaa/laila-chammaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
