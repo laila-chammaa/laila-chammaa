@@ -1,11 +1,11 @@
-<h3 align="center"><samp>Heyy! I'm Laila</samp></h3>
+<h3 align="center"><samp>hey there! i'm laila🌸</samp></h3>
 <p align="center">
   <samp>
     「 Computer Science Student 」
   </samp>
 </p>
 <p align="center">
-hey there🌸 i'm currently working on 2 android apps and learning Vue, Go, and all about compilers! it's all good, i got it under control😔 most of my projects are deployed, so please check them out! thank you🌿
+i'm currently working on 2 android apps and learning Vue, Go, and all about compilers! it's all good, i got it under control😔 most of my projects are deployed, so please check them out! thank you🌿
   <br><br>
   <a href="https://www.linkedin.com/in/laila-chammaa/">👩‍🏫Linkedin</a> ----- <a href="https://laila_chammaa.artstation.com/">🎨UI portfolio</a>
 </p>
