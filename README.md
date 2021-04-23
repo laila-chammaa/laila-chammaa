@@ -1,8 +1,4 @@
 <h3 align="center"><samp>hey there! i'm laila🌸</samp></h3>
-<p align="center">
-  <samp>
-    「 Computer Science Student 」
-  </samp>
 </p>
 <p align="center">
 i'm currently working on 2 android apps and learning Vue, Go, and all about compilers! it's all good, i got it under control😔 most of my projects are deployed, so please check them out! thank you🌿
