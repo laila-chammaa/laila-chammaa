@@ -1,7 +1,7 @@
 <h3 align="center"><samp>hey there! i'm laila🌸</samp></h3>
 </p>
 <p align="center">
-i'm currently working on 2 android apps and learning Vue, Go, and all about compilers! it's all good, i got it under control😔 most of my projects are deployed, so please check them out! thank you🌿
+i'm currently working on 2 android apps and learning Kotlin, Go, and all about compilers! it's all good, i got it under control😔 most of my projects are deployed, so please check them out! thank you🌿
   <br><br>
   <a href="https://www.linkedin.com/in/laila-chammaa/">👩‍🏫Linkedin</a> ----- <a href="https://laila_chammaa.artstation.com/">🎨UI portfolio</a>
 </p>
