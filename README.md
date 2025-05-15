@@ -18,10 +18,3 @@ i'm currently working on 2 android apps and learning Kotlin, Go, and all about c
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=laila-chammaa&layout=compact&theme=outrun"></img>
 </details>
 <br>
-<samp>
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=laila-chammaa&show_icons=true&theme=outrun"></img>
-    <br><br>
-    ════ ⋆★⋆ ════<br>
-  </p>
-</samp>
